@@ -1,0 +1,23 @@
+body {
+	background-color: #363940
+}
+
+div {
+	text-align: center;
+	margin-top: 400px;
+	font-family: 'Lobster';
+	font-size: 460%
+	}
+
+a {
+	color: white;
+	text-decoration: none
+}
+
+a:hover {
+    text-decoration: underline
+}
+
+a::selection {
+    background: #000
+}
